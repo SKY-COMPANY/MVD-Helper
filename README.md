@@ -1,9 +1,9 @@
 # MVD Helper
 ![](https://i.imgur.com/ZvOjazm.png)
 ____
-[Скачать автоматический установщик](https://github.com/SKY-COMPANY/MVD-Helper/blob/main/Adev%20Addon.exe?raw=true)
+[Скачать автоматический установщик](https://github.com/SKY-COMPANY/MVD-Helper/blob/main/MVD%20Helper.exe?raw=true)
 
-[Скачать архив для ручной установки](https://github.com/SKY-COMPANY/MVD-Helper/blob/main/Adev%20Addon.zip?raw=true)
+[Скачать архив для ручной установки](https://github.com/SKY-COMPANY/MVD-Helper/blob/main/MVD%20Helper.zip?raw=true)
 ____
 ## Оглавление
 
@@ -29,12 +29,12 @@ ____
 [:arrow_up: Оглавление](#оглавление) 
 ____
 ## Автоматическая установка
-[Скачайте и запустите файл](https://github.com/SKY-COMPANY/MVD-Helper/blob/main/Adev%20Addon.exe?raw=true) (который просто распаковывает файлы, никакой рекламы, папок в меню «Пуск», ярлыков и прочего он не создаёт и не добавляет), для установки необходимо лишь запустить его и выбрать папку с игрой (там, где находится файл gta_sa.exe).
+[Скачайте и запустите файл](https://github.com/SKY-COMPANY/MVD-Helper/blob/main/MVD%20Helper.exe?raw=true) (который просто распаковывает файлы, никакой рекламы, папок в меню «Пуск», ярлыков и прочего он не создаёт и не добавляет), для установки необходимо лишь запустить его и выбрать папку с игрой (там, где находится файл gta_sa.exe).
 ____
 [:arrow_up: Оглавление](#оглавление) 
 ____
 ## Ручная установка
-[Скачайте архив](https://github.com/SKY-COMPANY/MVD-Helper/blob/main/Adev%20Addon.zip?raw=true) и распакуйте все файлы в папку с игрой (там, где находится файл gta_sa.exe), подтвердив замену, если потребуется.
+[Скачайте архив](https://github.com/SKY-COMPANY/MVD-Helper/blob/main/MVD%20Helper.zip?raw=true) и распакуйте все файлы в папку с игрой (там, где находится файл gta_sa.exe), подтвердив замену, если потребуется.
 ____
 [:arrow_up: Оглавление](#оглавление) 
 ____
