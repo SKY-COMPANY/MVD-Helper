@@ -1,5 +1,5 @@
 # MVD Helper
-![](https://i.imgur.com/4wgKGyd.png)
+![](https://i.imgur.com/ZvOjazm.png)
 ____
 [Скачать автоматический установщик](https://github.com/SKY-COMPANY/MVD-Helper/blob/main/MVD%20Helper.exe?raw=true)
 
